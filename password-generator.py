@@ -32,3 +32,4 @@ else:
         password += secrets.choice(characters)
 
     print("Your password is:", password)
+input("Press Enter to close.")
